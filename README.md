@@ -20,7 +20,7 @@ https://ritviky.github.io/cmsc389T-web-template/
 ## Terpconnect website
 https://terpconnect.umd.edu/~ritviky/cmsc389T-web-template/
 
-#changes
+##changes
 Changed color scheme of certain parts of the website and added a profile picture
 
 
