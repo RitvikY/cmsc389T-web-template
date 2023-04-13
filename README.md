@@ -13,3 +13,9 @@ Rose quartz: #B2A3B5
 
 ## CSS
 .img -> where you can adjust image size
+
+## Github Website
+https://ritviky.github.io/cmsc389T-web-template/
+
+# Terpconnect website
+
