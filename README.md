@@ -17,5 +17,10 @@ Rose quartz: #B2A3B5
 ## Github Website
 https://ritviky.github.io/cmsc389T-web-template/
 
-# Terpconnect website
+## Terpconnect website
+https://terpconnect.umd.edu/~ritviky/cmsc389T-web-template/
+
+#changes
+Changed color scheme of certain parts of the website and added a profile picture
+
 
